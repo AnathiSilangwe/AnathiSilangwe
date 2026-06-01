@@ -91,10 +91,3 @@
 
 ---
 
-# ⚡ Fun Fact  
-
-```python
-while(alive):
-    learn()
-    build()
-    improve()
