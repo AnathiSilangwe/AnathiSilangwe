@@ -1,6 +1,6 @@
 # Hi, I'm Anathi Silangwe
 
-### Software Developer | Cybersecurity Enthusiast | Full-Stack Web Developer
+### Software Developer | Cybersecurity Enthusiast | AI Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Developer;Cybersecurity+Enthusiast;Full-Stack+Web+Developer;Interested+in+Automation+and+Robotics;Always+Learning+New+Technologies" alt="Typing SVG" />
