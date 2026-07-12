@@ -14,6 +14,8 @@ I'm a final-year Bachelor of Information Technology student passionate about dev
 
 **Areas of Interest**
 - Software Development
+- AI Prompt Engineering
+- Data Analytics
 - Cybersecurity (Blue Team & Defensive Security)
 - Full-Stack Web Development
 - Robotics & Automation
