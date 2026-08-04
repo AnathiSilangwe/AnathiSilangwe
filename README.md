@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a final-year Bachelor of Information Technology student passionate about developing software that solves real-world problems. My interests span software engineering, cybersecurity, automation, and web development. I enjoy building practical projects, learning new technologies, and continuously improving my technical skills.
+I'm a final-year Bachelor of Information Technology student passionate about developing software that solves real-world problems. My interests span software engineering, cybersecurity, Automation, AI and Machine Learning, and web development. I enjoy building practical projects, learning new technologies, and continuously improving my technical skills.
 
 **Areas of Interest**
 - Software Development
@@ -39,8 +39,8 @@ I'm a final-year Bachelor of Information Technology student passionate about dev
 ### Web Development
 
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - REST APIs
 
@@ -48,6 +48,8 @@ I'm a final-year Bachelor of Information Technology student passionate about dev
 
 - Microsoft SQL Server
 - MySQL
+- Supabase
+- PostgreSQL
 
 ### Tools & Technologies
 
@@ -57,6 +59,8 @@ I'm a final-year Bachelor of Information Technology student passionate about dev
 - GitHub
 - Visual Studio Code
 - Android Studio
+- visual studio
+- Loveable.dev
 
 ### Additional Experience
 
@@ -68,6 +72,7 @@ I'm a final-year Bachelor of Information Technology student passionate about dev
 - Siemens LOGO! Soft Comfort
 - Software Design
 - Version Control
+- AI prompt Engineering
 
 ---
 
