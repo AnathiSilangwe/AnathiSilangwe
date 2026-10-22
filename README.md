@@ -1,6 +1,6 @@
 # Hi, I'm Anathi Silangwe
 
-### Software Developer | Cybersecurity Enthusiast | AI Enthusiast
+### Aspiring Developer, Analyst | Cybersecurity Enthusiast | AI & Data Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Developer;Cybersecurity+Enthusiast;Full-Stack+Web+Developer;Interested+in+Automation+and+Robotics;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -16,6 +16,7 @@ I'm a final-year Bachelor of Information Technology student passionate about dev
 - Software Development
 - AI Prompt Engineering
 - Data Analytics
+- Business Analytics
 - Cybersecurity (Blue Team & Defensive Security)
 - Full-Stack Web Development
 - Robotics & Automation
